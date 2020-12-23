@@ -1,0 +1,532 @@
+body p{
+	font-family: Poppins;
+	color: #111A53;
+	font-size: 15px;
+}
+
+body h2{
+	font-family: Yeseva One;
+	font-size: 40px;
+	color: #111A53;
+}
+
+h1{
+	color: #111A53;
+	font-size: 50px;
+	font-family: Yeseva One;
+}
+
+#heading1{
+	height: 207px;
+	width: 432px;
+	line-height: 70px;
+}
+
+#firsttext{
+	width: 423px;
+	line-height: 34px;
+	margin-top: 30px;
+}
+
+
+#navbar{
+	height: 120px;
+}
+
+.navbar-brand{
+	font-family: Poppins;
+	font-size: 16px;
+	color: #413B83;
+}
+
+.nav-link{
+	font-family: Poppins;
+	font-size: 16px;
+	color: #8D91C2;
+}
+
+.nav-link:hover{
+	color: #5AD9B9;
+}
+
+#navbutton{
+	color: white;
+	background-color: #5AD9B9;
+	font-family: Poppins;
+	font-size: 16px;
+	width: 171px;
+	height: 59px;
+	border-radius: 50px 50px 50px 50px;
+	font-weight: bold;
+	
+}
+
+
+#firstImageDiv{
+	margin-bottom: 129px;
+}
+
+#navbarSupportedContent{
+	margin-left: 150px;
+	margin-right: 100px;
+}
+
+#firstpageButton{
+	background-color: #4354D0;
+	border-radius: 50px 50px 50px 50px;
+	width: 171px;
+	line-height: 40px;
+	font-size: 16px;
+	font-family: Poppins;
+}
+
+#firstPartCol1{
+	margin-top: 50px;
+}
+
+#showmeMoreButton{
+	background-color: #4354D0;
+}
+
+
+#numbers{
+	display: flex;
+	text-align: center;
+}
+
+.numberstyle{
+	font-family: Yeseva One;
+	font-size: 60px;
+}
+
+.numbertxtstyle{
+	font-family: Poppins;
+	font-size: 16px;
+	color: #111A53;
+}
+
+#sendMessageButton{
+	background-color: #5AD9B9;
+	color: #111A53;
+	font-family: Poppins;
+	width: 275px;
+	height: 60px;
+	font-weight: bold;
+	margin-top: 20px;
+}
+.secondPart{
+	background-color: #F8FAFF;
+	margin-top: 55px;
+}
+
+
+#thirdPart{
+	color: white;
+	background-color: #111A53;
+	height: 160px;
+}
+
+
+#littleDiv{
+	box-shadow: 15px 15px 60px #27343D;
+	height: 92px;
+	width: 196px;
+	position: absolute;
+	z-index: 1;
+	background-color: white;
+	left: 0px;
+	bottom: 210px;
+	margin-left: 50px;
+}
+
+#firstImageSlide{
+	border-radius: 0px 70px 0px 70px;
+	margin-left: 130px;
+}
+
+#secondImageSlide{
+	border-radius: 0px 70px 0px 70px;
+	margin-left: 130px;
+}
+
+#thirdImageSlide{
+	border-radius: 0px 70px 0px 70px;
+	margin-left: 130px;
+}
+
+#firstImageDiv{
+	position: relative;
+}
+
+#firstImageShadow{
+	background-color: #F8FAFF;
+	border-radius: 15px 15px 15px 15px;
+	position: absolute;
+	height: 587px;
+	width: 424px;
+	right: 30px;
+	top: 50px;
+	left: 200px;
+	z-index: -1;
+}
+
+
+#littleDivImageTxt1{
+	font-size: 25px;
+	font-family: Yeseva One;
+	margin-bottom: 0px;
+	margin-top: 15px;
+}
+
+
+#littleDivImage1{
+	margin-left: 20px;
+	margin-top: 15px;
+}
+
+#littleDivImage2{
+	margin-left: 10px;
+}
+
+
+
+
+
+
+#secondTopicHeading{
+	display: flex;
+	margin-top: 120px;
+}
+
+
+#secondTopicHeading h2{
+	width: 671px;
+	line-height: 60px;
+	margin-left: 20px;
+}
+
+
+
+#secondTopicTxt1 p{
+	margin-top: 30px;
+	width: 954px;
+	margin-bottom: 60px;
+	line-height: 40px;
+}
+
+#secondTopicTxt2 h2{
+	margin-left: 220px;
+	width: 493px;
+	margin-top: 50px;
+	line-height: 40px;
+	line-height: 60px;
+}
+
+#secondTopicTxt2 ul{
+	margin-left: 200px;
+	font-family: Poppins;
+	color: #111A53;
+	font-size: 15px;
+	margin-top: 30px;
+	line-height: 40px;
+}
+
+
+#secondTopic{
+	height: 1044px;
+}
+
+
+
+
+
+
+
+#thirdTopicHeading{
+	margin-top: 50px;
+}
+
+#thirdTopicHeading p{
+	margin-top: 20px;
+	line-height: 40px;
+	margin-bottom: 50px;
+}
+
+.thirdTopicImages2{
+	margin-top: 10px;
+}
+
+
+#showmeMoreButtonDiv{
+	margin-top: 30px;
+	text-align: center;
+}
+
+#showmeMoreButton{
+	border-radius: 50px 50px 50px 50px;
+	line-height: 40px;
+	width: 187px;
+	font-family: Poppins;
+	font-size: 16px;
+}
+
+
+
+
+
+#fourthTopic{
+	height: 216px;
+}
+
+
+#fourthTopic img{
+	margin-top: 70px;
+}
+
+#fourthTopicDiv1{
+	text-align: center;
+	display: flex;
+}
+
+.fourthTopicImages{
+	height: 216px;
+	width: 200px;
+}
+
+
+
+
+
+#fifthTopicHeading{
+	margin-top: 50px;
+	margin-bottom: 60px;
+}
+
+#fifthTopicHeading h2{
+	margin-bottom: 40px;
+}
+
+#fifthTopicHeading p{
+	line-height: 40px;
+}
+
+#fifthTopicImages{
+	display: flex;
+}
+
+#fifthTopicImage1{
+	border-radius: 5px 5px 5px 5px;
+	margin-right: 50px;
+}
+
+#fifthTopicImage2{
+	border-radius: 5px 5px 5px 5px;
+	position: absolute;
+}
+
+
+#sixthTopic{
+	position: relative;
+	height: 384px;
+	z-index: -1;
+}
+
+#sixthTopic h2{
+	padding-top: 60px;
+	width: 493px;
+	line-height: 60px;
+}
+
+
+#sixthTopic li{
+	line-height: 40px;
+	font-size: 15px;
+	font-family: Poppins;
+}
+
+
+
+
+
+
+
+
+#seventhTopicHeading{
+	margin-top: 70px;
+}
+
+
+#seventhTopicHeading p{
+	margin-top: 30px;
+	width: 954px;
+	line-height: 40px;
+	margin-bottom: 50px;
+}
+
+.cardByWho{
+	background-color: white;
+	position: relative;
+	bottom: 190px;
+	width: 175px;
+	border-radius: 10px 10px 10px 10px;
+	height: 41px;
+	left: 160px;
+	text-align: center;
+}
+
+
+.cardByWho p{
+	margin-top: 10px;
+	font-size: 13px;
+	font-family: Poppins;
+	font-style: italic;
+}
+
+
+.card{
+	border: none;
+}
+
+
+.card-title{
+	margin-top: 30px;
+	font-family: Yeseva One;
+	font-size: 25px;
+}
+
+.card-date{
+	margin-top: 10px;
+	font-family: Poppins;
+	font-size: 13px;
+}
+
+.card-href{
+	font-family: Poppins;
+	font-size: 12px;
+	color: #5AD9B9;
+}
+
+
+.card-text1{
+	margin-top: 10px;
+	font-family: Poppins;
+	font-size: 13px;
+	color: #C4C8DB;
+	margin-left: 30px;
+}
+
+.card-body-class2{
+	display: flex;
+}
+
+.card-body{
+	padding: 0px;
+}
+
+
+
+
+
+
+
+#contactheading{
+	padding-top: 60px;
+	padding-bottom: 20px;
+}
+
+#contacttext{
+	padding-bottom: 70px;
+}
+
+
+#contactdiv2{
+	display: flex;
+}
+
+
+#relativebox{
+	border-radius: 10px 10px 10px 10px;
+	background-color: white;
+	position: relative;
+	height: 128px;
+	width: 259px;
+	top: -190px;
+	text-align: center;
+	left: 200px;
+}
+
+
+#relativeboxdiv p{
+	font-size: 17px;
+}
+
+#relativeboxdiv{
+	padding-top: 25px;
+}
+
+
+#contactformtxt{
+	color: #747A9D;
+	line-height: 33px;
+	width: 566px;
+	margin-bottom: 50px;
+}
+
+
+#contactformtopic{
+	margin-left: 120px;
+}
+
+#ContactEmailDiv{
+	margin: 0px;
+}
+
+#ContactSubjectDiv{
+	margin-bottom: 0px;
+}
+
+#inputMessage{
+	width: 566px;
+	height: 184px;
+	margin-top: 15px;
+}
+
+#inputEmail, #inputName, #inputSubject{
+	width: 275px;
+	height: 62px;
+}
+
+#inputSurname{
+	width: 275px;
+	height: 60px;
+}
+
+
+
+
+
+#thirdPartItems{
+	display: flex;
+}
+
+.thirdParttxt{
+	color: white;
+	font-family: Poppins;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+
+#thirdPartcol1{
+	width: 2000px;
+	margin-top: 30px;
+}
+
+
+#thirdPartcol2{
+	margin-top: 60px;
+}
+
+#thirdPartcol3{
+	margin-top: 60px;
+}
